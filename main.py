@@ -6,7 +6,6 @@ student_dict = {
 }
 
 #TODO 1. Create a dictionary in this format:
-#{"A": "Alfa", "B": "Bravo"}
 data = pandas.read_csv("nato_phonetic_alphabet.csv")
 nato_data = pandas.DataFrame(data)
 
